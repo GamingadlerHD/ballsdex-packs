@@ -39,7 +39,7 @@ you find the id at the Admin-Panel>Specials>Left side
 - go to https://webhook-topgg.com/ 
 - press get started
 - enter your discord webhook (The channel should be private, otherways everyone can trigger rewards) and press next
-- set the content to "r.votereward <user>" and press next
+- set the content to  ```r.votereward <user> ``` and press next
 - for Embed Presets select "None" and press Test
 - if the message on discord says "r.votereward 311553339261321216" you done everything right
 - Press next. You will get a URL and Authorization, coppy them
