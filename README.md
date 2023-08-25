@@ -72,11 +72,11 @@ you find the id at the Admin-Panel>Specials>Left side
 
 6. Restart your bot by running the following commands in your command line:
 
- ```docker compose down ```
+         docker compose down
 
- ```docker compose build ```
+         docker compose build 
 
- ```docker compose up ```
+         docker compose up
 
 7. Test your feature.
 
