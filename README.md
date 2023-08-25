@@ -1,4 +1,4 @@
-# ballsdex-packs
+# Ballsdex Packs
 ### Optional packages for the ballsdex discord bot
 
 
