@@ -1,14 +1,6 @@
-NOTE: MAKE CREDITS TO GAMINGADLERHD
+## **HOW TO INSTALL:**
 
-
-
-
-
-
-
-
-HOW TO INSTALL:
-
+### NOTE: MAKE CREDITS TO GAMINGADLERHD
 
 1. Place your Package (the folder you also downloaded) in /ballsdex/packages/
 
