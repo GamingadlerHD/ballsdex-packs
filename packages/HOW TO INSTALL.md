@@ -16,14 +16,14 @@
 
 5a. gafusion
 
-- at line 97 in  ```/gafusion/cog.py ``` you find the number 12, right after special=, replace that number with your special ID of the card you want to use for fusion.
+- at line 97 in  ```/gafusion/cog.py ``` you find the number 12, right after  ```special= ```, replace that number with your special ID of the card you want to use for fusion.
 you find the id at the Admin-Panel>Specials>Left side
 
 5b. gafusionv2 
 
 - at line 81, 83 and 197 in  ```/fusionv2/menu.py ``` you find the number 10, replace all of them with (for example) 7 if the users should only need 7 countryballs to fuse.
 
-- at line 390 in  ```/gafusionv2/cog.py ``` you find the number 12, right after special=, replace that number with your special ID of the card you want to use for fusion.
+- at line 390 in  ```/gafusionv2/cog.py ``` you find the number 12, right after  ```special= ```, replace that number with your special ID of the card you want to use for fusion.
 you find the id at the Admin-Panel>Specials>Left side
 
 5c. gararity
