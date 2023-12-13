@@ -2,6 +2,11 @@
 ### Optional packages for the ballsdex discord bot
 
 
+
+## This Repository will be arcived soon and Deleted starting 2024, since its an outdated version.
+
+
+
 ## License
 Licensed under the Apache License, Version 2.0 (the "License");
 You may obtain a copy of the License at:
